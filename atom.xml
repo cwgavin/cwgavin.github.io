@@ -110,25 +110,6 @@
   </entry>
   
   <entry>
-    <title>COMPSCI 762 Notes</title>
-    <link href="https://cwgavin.github.io/posts/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-COMPSCI-762-Notes/"/>
-    <id>https://cwgavin.github.io/posts/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-COMPSCI-762-Notes/</id>
-    <published>2020-06-29T21:00:00.000Z</published>
-    <updated>2020-11-21T00:47:35.182Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>Course outline sorted out by myself for quick revision<br><i>University of Auckland COMPSCI 762 - Advanced Machine Learning</i><br>(exported from OneNote)</p></blockquote><br/><object data="compsci-762.pdf" type="application/pdf" width="100%" height="820px">       <embed src="compsci-762.pdf">       <center>            This browser/device does not support PDFs.<br/>Please use a computer to view it.<br/><br/>            请用电脑打开该网页。        </center>       </embed></object> ]]></content>
-    
-    
-    <summary type="html">University of Auckland COMPSCI 762 - Advanced Machine Learning</summary>
-    
-    
-    
-    
-    <category term="Notes" scheme="https://cwgavin.github.io/tags/Notes/"/>
-    
-  </entry>
-  
-  <entry>
     <title>COMPSCI 761 Notes</title>
     <link href="https://cwgavin.github.io/posts/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-COMPSCI-761-Notes/"/>
     <id>https://cwgavin.github.io/posts/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-COMPSCI-761-Notes/</id>
@@ -139,6 +120,25 @@
     
     
     <summary type="html">University of Auckland COMPSCI 761 - Artificial Intelligence</summary>
+    
+    
+    
+    
+    <category term="Notes" scheme="https://cwgavin.github.io/tags/Notes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>COMPSCI 762 Notes</title>
+    <link href="https://cwgavin.github.io/posts/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-COMPSCI-762-Notes/"/>
+    <id>https://cwgavin.github.io/posts/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-COMPSCI-762-Notes/</id>
+    <published>2020-06-29T21:00:00.000Z</published>
+    <updated>2020-11-21T00:47:35.182Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Course outline sorted out by myself for quick revision<br><i>University of Auckland COMPSCI 762 - Advanced Machine Learning</i><br>(exported from OneNote)</p></blockquote><br/><object data="compsci-762.pdf" type="application/pdf" width="100%" height="820px">       <embed src="compsci-762.pdf">       <center>            This browser/device does not support PDFs.<br/>Please use a computer to view it.<br/><br/>            请用电脑打开该网页。        </center>       </embed></object> ]]></content>
+    
+    
+    <summary type="html">University of Auckland COMPSCI 762 - Advanced Machine Learning</summary>
     
     
     
@@ -272,9 +272,9 @@
     <link href="https://cwgavin.github.io/posts/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%B8%A9%E5%9D%91%E5%85%A8%E8%AE%B0%E5%BD%95/"/>
     <id>https://cwgavin.github.io/posts/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%B8%A9%E5%9D%91%E5%85%A8%E8%AE%B0%E5%BD%95/</id>
     <published>2019-04-13T03:00:25.000Z</published>
-    <updated>2020-10-23T23:41:46.252Z</updated>
+    <updated>2022-03-29T22:16:28.875Z</updated>
     
-    <content type="html"><![CDATA[<p>之前用 Jekyll + GitHub Pages 做过一个个人博客，大概类似于 <a href="https://onevcat.com/">https://onevcat.com/</a> 这种风格的，打开先是一个封面，然后通过下面的链接转向不同地方。但由于我一直对这个主题有一些不太满意的地方，再加上荒废了一年时间没有写过一篇博客，所以现在决定用 Hexo 重新做一次。为什么改用 Hexo？很简单，因为印象中 Jekyll 用起来有点麻烦。博客毕竟只是记录生活感想或者学习笔记的工具，如果花费过多的时间在工具本身，我觉得就有点本末倒置了。</p><blockquote><p>⚠️ 注意：本文假设 GitHub Pages 已经设置完毕，不了解的同学可以看<a href="https://pages.github.com/">官网</a>的详细指导。</p></blockquote><h1 id="首先，为什么要写博客？"><a href="#首先，为什么要写博客？" class="headerlink" title="首先，为什么要写博客？"></a>首先，为什么要写博客？</h1><p>这个问题我还没想好，等我开始写了再回答（笑）。</p><h1 id="选主题"><a href="#选主题" class="headerlink" title="选主题"></a>选主题</h1><p>搭建这种简易博客的第一件事大概就是选主题了。我在 Hexo 上浏览了一番，看到了这个主题：</p><img src="活版印字.png" width="500px"><p>活版印字？示例文章好像还放了朱自清的《背影》和夏目漱石的《我是猫》，嗯，看上去好像不错的样子。于是我点开了它——</p><img src="Screen Shot 2019-04-13 at 6.59.37 PM.png" width="500px"><img src="why.jpg" width="70px"> <p>图文不符啊亲？</p><p>……不过还是很好看啊，算了就决定是你了。</p><h1 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h1><p>按照 <a href="https://hexo.io/">Hexo 官网</a> 上的代码安装并初始化了一个博客网站，在本地运行了一下，不错。虽然默认主题不是很好看，但我们可以稍后修改，现在先将这个初始化的结果 commit 到 GitHub 吧。</p><p>然而 Hexo 立刻就给了刚见面的我一个下马威 :)  GitHub 发来一封<code>Page build failure</code>邮件：</p><pre><code>The tag `fancybox` on line 77 in `themes/landscape/README.md` is not a recognized Liquid tag.</code></pre><p>在 google 一番之后发现原因很简单，Hexo 在默认主题的 README 中使用了一个不受支持的 tag，只要把出问题的这一行注释掉，或者索性把 README 删掉就没问题了。接下来安装我中意的主题，主题作者在<a href="https://github.com/SumiMakito/hexo-theme-Journal">这里</a>有安装指导。然后我们再 commit：</p><pre><code>The page build completed successfully, but returned the following warning for the `master` branch:You are attempting to use a Jekyll theme, &quot;journal&quot;, which is not supported by GitHub Pages.</code></pre><p>都说真男人从不回头看爆炸，真程序员从不回头看 warning，既然 build completed successfully，那么这种区区小 warning 我也是不想去管他的。</p><img src="404.png" width="500px"><p>404警告</p><p>……好吧，我们老老实实去解决这个 warning，否则网站打不开。我找到了一个 GitHub Issue，给出的解决方法是 lock Hexo version to 3.3.1，我试了一下没有作用。接着我找到了这篇文章：<a href="https://liguanghe.github.io/2017/11/06/blogRebuilt/">hexo 博客的神坑及本质原因</a> ，这篇神一般的文章奇迹般地拯救了我可能要浪费的大把时间和脆弱又宝贵的自信心。在这篇文章的指导下我发现我的博客此时已经陷入死胡同，挽救不回来了（……）。好的，那让我们删除掉刚刚做好的所有东西，重新开始吧 ( ´▽｀)</p><p>在这篇神文的指导下我很快就把博客搭建好了，但在进行个性化设置的时候还是碰到了一些问题。</p><h1 id="添加标签页"><a href="#添加标签页" class="headerlink" title="添加标签页"></a>添加标签页</h1><p>首先，给 Hexo 站点添加一个页面的 command：</p><pre><code>hexo new page &lt;页面名称&gt;</code></pre><p>要在命令行运行。不知道什么是/怎么用命令行工具的同学请出门右转参加 WordPress 建站讨论组（不是）。</p><p>新建 tags 页面之后，网上普遍的说法是只要你在 Hexo 自动生成的 index.md 中添加以下设置就可以了：</p><pre><code>---title: Tagstype: &quot;tags&quot;---</code></pre><p>我照做了，然而得到的却是一个空白的 Tags 页面。直到我看到了<a href="https://www.zhihu.com/question/29017171/answer/364705653">这个回答</a>…… 因为我安装的这个主题，它对应标签页的 ejs 文件不叫<code>tags.ejs</code>，而是<code>tag-index.ejs</code>。所以，划重点：添加<code>layout: &quot;tag-index&quot;</code>，就大功告成了。</p><h1 id="上传图片"><a href="#上传图片" class="headerlink" title="上传图片"></a>上传图片</h1><p>Markdown 格式天生不支持图片的上传和保存，虽然我们有办法引用图片，却不知道应该把图片存储在哪里。有两种解决方式：1. 将文章的所有图片都保存在一个文件夹中，与文字和项目代码一起上传到 GitHub；2. 把图片上传到一个免费图床上，再在文章中引用图片网址。</p><p>1 的优点在于图片掌握在自己手中，不会莫名其妙丢失。缺点是如果想把文章移植到别的地方，那么图片的搬运会是一项十分头疼的工作。2 的优点是利于文章直接复制粘贴到其他平台，缺点是一些免费图床不是很靠谱，有突然崩掉的可能性。如果你没有本地备份，那么有可能有些图片你是再也找不回来了。</p><h1 id="对了，看了半天我还不知道……"><a href="#对了，看了半天我还不知道……" class="headerlink" title="对了，看了半天我还不知道……"></a>对了，看了半天我还不知道……</h1><p>嗯好的没问题，对于看完了这篇文章还不知道 Hexo 这个词到底要怎么念的同学，跟我念：黑克搜。</p>]]></content>
+    <content type="html"><![CDATA[<p>之前用 Jekyll + GitHub Pages 做过一个个人博客，大概类似于 <a href="https://onevcat.com/">https://onevcat.com/</a> 这种风格的，打开先是一个封面，然后通过下面的链接转向不同地方。但由于我一直对这个主题有一些不太满意的地方，再加上荒废了一年时间没有写过一篇博客，所以现在决定用 Hexo 重新做一次。</p><!-- 为什么改用 Hexo？很简单，因为印象中 Jekyll 用起来有点麻烦。博客毕竟只是记录生活感想或者学习笔记的工具，如果花费过多的时间在工具本身，我觉得就有点本末倒置了。 --><blockquote><p>⚠️ 注意：本文假设 GitHub Pages 已经设置完毕，不了解的同学可以看<a href="https://pages.github.com/">官网</a>的详细指导。</p></blockquote><h1 id="首先，为什么要写博客？"><a href="#首先，为什么要写博客？" class="headerlink" title="首先，为什么要写博客？"></a>首先，为什么要写博客？</h1><p>这个问题我还没想好，等我开始写了再回答（笑）。</p><h1 id="选主题"><a href="#选主题" class="headerlink" title="选主题"></a>选主题</h1><p>搭建这种简易博客的第一件事大概就是选主题了。我在 Hexo 上浏览了一番，看到了这个主题：</p><img src="活版印字.png" width="500px"><p>活版印字？示例文章好像还放了朱自清的《背影》和夏目漱石的《我是猫》，嗯，看上去好像不错的样子。于是我点开了它——</p><img src="Screen Shot 2019-04-13 at 6.59.37 PM.png" width="500px"><img src="why.jpg" width="70px"> <p>图文不符啊亲？</p><p>……不过还是很好看啊，算了就决定是你了。</p><h1 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h1><p>按照 <a href="https://hexo.io/">Hexo 官网</a> 上的代码安装并初始化了一个博客网站，在本地运行了一下，不错。虽然默认主题不是很好看，但我们可以稍后修改，现在先将这个初始化的结果 commit 到 GitHub 吧。</p><p>然而 Hexo 立刻就给了刚见面的我一个下马威 :)  GitHub 发来一封<code>Page build failure</code>邮件：</p><pre><code>The tag `fancybox` on line 77 in `themes/landscape/README.md` is not a recognized Liquid tag.</code></pre><p>在 google 一番之后发现原因很简单，Hexo 在默认主题的 README 中使用了一个不受支持的 tag，只要把出问题的这一行注释掉，或者索性把 README 删掉就没问题了。接下来安装我中意的主题，主题作者在<a href="https://github.com/SumiMakito/hexo-theme-Journal">这里</a>有安装指导。然后我们再 commit：</p><pre><code>The page build completed successfully, but returned the following warning for the `master` branch:You are attempting to use a Jekyll theme, &quot;journal&quot;, which is not supported by GitHub Pages.</code></pre><p>都说真男人从不回头看爆炸，真程序员从不回头看 warning，既然 build completed successfully，那么这种区区小 warning 我也是不想去管他的。</p><img src="404.png" width="500px"><p>404警告</p><p>……好吧，我们老老实实去解决这个 warning，否则网站打不开。我找到了一个 GitHub Issue，给出的解决方法是 lock Hexo version to 3.3.1，我试了一下没有作用。接着我找到了这篇文章：<a href="https://liguanghe.github.io/2017/11/06/blogRebuilt/">hexo 博客的神坑及本质原因</a> ，这篇神一般的文章奇迹般地拯救了我可能要浪费的大把时间和脆弱又宝贵的自信心。在这篇文章的指导下我发现我的博客此时已经陷入死胡同，挽救不回来了（……）。好的，那让我们删除掉刚刚做好的所有东西，重新开始吧 ( ´▽｀)</p><p>在这篇神文的指导下我很快就把博客搭建好了，但在进行个性化设置的时候还是碰到了一些问题。</p><h1 id="添加标签页"><a href="#添加标签页" class="headerlink" title="添加标签页"></a>添加标签页</h1><p>首先，给 Hexo 站点添加一个页面的 command：</p><pre><code>hexo new page &lt;页面名称&gt;</code></pre><p>要在命令行运行。不知道什么是/怎么用命令行工具的同学请出门右转参加 WordPress 建站讨论组（不是）。</p><p>新建 tags 页面之后，网上普遍的说法是只要你在 Hexo 自动生成的 index.md 中添加以下设置就可以了：</p><pre><code>---title: Tagstype: &quot;tags&quot;---</code></pre><p>我照做了，然而得到的却是一个空白的 Tags 页面。直到我看到了<a href="https://www.zhihu.com/question/29017171/answer/364705653">这个回答</a>…… 因为我安装的这个主题，它对应标签页的 ejs 文件不叫<code>tags.ejs</code>，而是<code>tag-index.ejs</code>。所以，划重点：添加<code>layout: &quot;tag-index&quot;</code>，就大功告成了。</p><h1 id="上传图片"><a href="#上传图片" class="headerlink" title="上传图片"></a>上传图片</h1><p>Markdown 格式天生不支持图片的上传和保存，虽然我们有办法引用图片，却不知道应该把图片存储在哪里。有两种解决方式：1. 将文章的所有图片都保存在一个文件夹中，与文字和项目代码一起上传到 GitHub；2. 把图片上传到一个免费图床上，再在文章中引用图片网址。</p><p>1 的优点在于图片掌握在自己手中，不会莫名其妙丢失。缺点是如果想把文章移植到别的地方，那么图片的搬运会是一项十分头疼的工作。2 的优点是利于文章直接复制粘贴到其他平台，缺点是一些免费图床不是很靠谱，有突然崩掉的可能性。如果你没有本地备份，那么有可能有些图片你是再也找不回来了。</p><h1 id="对了，看了半天我还不知道……"><a href="#对了，看了半天我还不知道……" class="headerlink" title="对了，看了半天我还不知道……"></a>对了，看了半天我还不知道……</h1><p>嗯好的没问题，对于看完了这篇文章还不知道 Hexo 这个词到底要怎么念的同学，跟我念：黑克搜。</p>]]></content>
     
     
     <summary type="html">人这一辈子就是不断地给自己挖坑</summary>
